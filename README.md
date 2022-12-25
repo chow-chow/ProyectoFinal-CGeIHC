@@ -77,6 +77,7 @@ Para poner en ejecución el proyecto se debe seleccionar la opción "x86" en a b
 
 Ya puede ejecutarse el proyecto dando clic en el botón "Depurador local de Windows", esto abrirá la ventana del programa.
 
+<a name="item1"></a>
 ### ***Ejecución del archivo .exe*** 🚀
 Una vez que se ha clonado el proyecto o descomprimido el archivo .zip, se debe abrir la carpeta generada o ubicación del repositorio en el equipo y acceder a "ProyectoFinal\Release". Luego, se debe localizar el archivo "ProyectoFinal.exe" y hacer doble clic en él para ejecutar el programa.
 
