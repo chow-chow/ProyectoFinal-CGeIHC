@@ -27,7 +27,7 @@ Si selecciona "Open with GitHub Desktop" deberá tener dicha aplicación instaad
 La selección "Download ZIP" descargará un archivo .zip del proyecto, habrá que descomprimirlo en su equipo, regresar a este manual y saltarse hasta ["Ejecución del archivo .exe"](#item1).
 
 ### ***Ejecución con Visual Studio*** 💻
-Si se desea y tiene instalado el IDE Visual Studio puede ejecutar la aplicación siguiendo los siguientes pasos. Tener descargado el proyecto de GitHub y haber descomprimido la carpeta zip. Una vez teniendo esto abrir Visual Studio y seleccionar la opción "Abrir un proyecto o una solución"
+Si se desea y se tiene instalado el IDE Visual Studio, se puede ejecutar la aplicación siguiendo los siguientes pasos: descargar el proyecto de GitHub y descomprimir la carpeta zip. Una vez hecho esto, abrir Visual Studio y seleccionar la opción "Abrir un proyecto o una solución".
 
 <div align = "center">
 <img src=img/captura2.png height = 400px></img>
@@ -39,13 +39,13 @@ Buscar el archivo "ProyectoFinal.sln" dentro de la carpeta descomprimida y dar c
 <img src=img/captura3.png></img>
 </div>
 
-Antes de ejecutar el programa comprobamos que todas las bibliotecas y configuraciones estén cargadas correctamente. Nos dirigimos al explorador de soluciones, hacemos clic derecho en el nombre del proyecto y seleccionamos la opción de propiedades.
+Antes de ejecutar el programa, es importante comprobar que todas las bibliotecas y configuraciones estén cargadas correctamente. Para hacer esto, se debe dirigir al explorador de soluciones, hacer clic derecho en el nombre del proyecto y seleccionar la opción de propiedades.
 
 <div align = "center">
 <img src=img/captura4.png height = 500px></img>
 </div>
 
-En el apartado de "General" verificamos que el Conjunto de herramientas de la plataforma sea uno que tengamos descargado, puede ser v142 o v143.
+En el apartado de "General" verificar que el Conjunto de herramientas de la plataforma sea uno que se tenga descargado, puede ser v142 o v143.
 
 <div align = "center">
 <img src=img/captura5.png></img>
@@ -147,4 +147,55 @@ Baño general
 <div align = "center">
 <img src = img/captura19.png></img>
 Patio trasero con piscina
+</div>
+
+#### Funciones del Teclado
+* "Esc" : para salir de la ventana / terminar el programa. ❌
+
+* Simulación de las teclas de adelante ⬆️, atrás ⬇️, izquierda ⬅️, derecha ➡️ para movimiento como sucede en los videojuegos:
+    * "W" : mover la cámara hacia enfrente ⬆️. 
+    * "S" : mover la cámara hacia atrás ⬇️. 
+    * "A" : mover la cámara hacia la izquierda ⬅️.
+    * "D" : mover la cámara hacia la derecha ➡️.
+
+* Movimientos del mouse:
+    * El deslizamiento del mouse 🔁 a la izquierda o derecha, arriba o abajo realiza el giro de la cámara 📷 en dicha dirección de deslizado, el field of view 🔍 se mueve como sucede con el cursor de la computadora.
+    * Scroll del mouse reliza zoom + 🔍 moviéndolo hacia enfrente y zoom - 🔍 hacia atrás.
+	
+* Animaciones:
+	* "SPACE": Activa la animación del vehículo 🚗
+		<div align = "center">
+		<img src = img/captura20.png></img>
+		</div>
+		<br>
+
+	* "R": Restablece la animación del vehículo 🚗
+		<div align = "center">
+		<img src = img/captura21.png></img>
+		Posición inicial del vehículo.
+		</div>
+		<br>
+
+	* "5": Activa la animación del helicóptero de juguete a control remoto 🚁
+		<div align = "center">
+		<img src = img/captura22.png></img>
+		</div>
+		<br>
+
+	* "P": Activa la animación por KeyFrames del ave 🦅
+		<div align = "center">
+		<img src = img/captura23.png></img>
+		</div>
+		<br>
+
+	* La animación del deportista no necesita una entrada del usuario 🏃🏽‍♂️
+		<div align = "center">
+		<img src = img/captura24.png></img>
+		</div>
+		<br>
+	
+En el siguiente video se pueden apreciar todas las animaciones ejecutándose correctamente:
+
+<div align = "center">
+<a href = "https://youtu.be/0kX-gMDSoKM"><img src = img/captura25.png>Animaciones</a>
 </div>
