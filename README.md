@@ -199,3 +199,11 @@ En el siguiente video se pueden apreciar todas las animaciones ejecutándose cor
 <div align = "center">
 <a href = "https://youtu.be/0kX-gMDSoKM"><img src = img/captura25.png>Animaciones</a>
 </div>
+<br>
+
+## **Recorrido Virtual por la casa**
+En el caso de que el programa no pueda ejecutarse correctamente por motivos desconocidos, el siguiente video busca demostrar que el programa funciona de manera adecuada y sin errores. Además, el video tiene como propósito hacer un recorrido por cada uno de los cuartos de la casa y mostrar los objetos que los componen.
+
+<div align = "center">
+<a href = "https://youtu.be/XWHkK6jfjIg"><img src = img/captura26.png>Recorrido Virtual</a>
+</div>
